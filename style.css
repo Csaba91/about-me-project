@@ -56,8 +56,12 @@ img {
   border-radius: 40%;
   padding: 5px;
   background-color: rgba(255, 255, 255, 0.4);
+  transition: 1s ease;
 }
-
+img:hover {
+  transform: scale(1.1);
+  filter: grayscale(20%);
+}
 .profile-image {
   margin-top: -520px;
   margin-left: 70px;
