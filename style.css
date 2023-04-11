@@ -9,6 +9,7 @@
   align-items: center;
 }
 .profile-card {
+  font-family: 'Bree Serif', serif;
   background-color: hsla(40, 82%, 57%, 0.4);
   border-radius: 20px;
   box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
@@ -21,27 +22,28 @@
   background-color: hsla(206, 82%, 57%, 0.642);
   box-shadow: hsla(0, 0%, 0%, .4) 10px 10px 90px;
   border-radius: 20px;
-  padding: 30px;
+  padding: 26px;
   height: 300px;
   width: 400px;
   margin-left: -750px;
-  margin-top: 140px;
+  margin-top: 130px;
 }
 .about {
+  font-size: 17px;
   margin-top: 70px;
   height: 300px;
   width: 350px;
   text-align: justify
 }
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Bree Serif', serif;
 }
 .head, .content {
   width: 90%;
 }
 .head {
   text-align: center;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Bree Serif', serif;
 }
 .name-headline{
   margin-top: 30px;
@@ -55,12 +57,12 @@ img {
   padding: 5px;
   background-color: rgba(255, 255, 255, 0.4);
 }
+
 .profile-image {
-  margin-top: -510px;
+  margin-top: -520px;
   margin-left: 70px;
   margin-right: auto;
   width: 50%;
-
 }
 html, body {
   margin: 0;
@@ -70,7 +72,7 @@ html, body {
 ul {
   list-style-type: none;
   margin-left: 100px;
-  margin-top: 225px;
+  margin-top: 240px;
 }
 li {
   display: inline;
@@ -129,11 +131,11 @@ li {
 	width:20.9%;
   height: ;
 	display:block;
-	font-family: 'Lato',Arial,sans-serif;
+	font-family: 'Bree Serif', serif;
 	font-size:14px;
 }
 .ccformfield {
-	font-family: 'Lato',Arial,sans-serif;
+	font-family: 'Bree Serif', serif;
 }
 .ccbtn{
 	display:block;
